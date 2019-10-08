@@ -1,9 +1,13 @@
-li {
-  list-style-type: none;
+div.ex1 {
   border: 2px solid black;
-  max-width: 500px;
-  margin: auto;
-  background-color: aqua;
-
+  margin: 5px;
+  padding: 5px;
+  width: 1000px;
 }
 
+div.ex2 {
+  border: 2px solid black;
+  margin: 5px;
+  padding: 5px;
+  max-width: 1000px;
+}
